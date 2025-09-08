@@ -15,7 +15,7 @@
 ---
 
 ## 🏫 Education  
-- 🎓 **B.E. Artificial Intelligence & Data Science** – SNJB’s Late Sau KBJ College of Engineering Chandwad, Nashik (2021–2025) | CGPA: **7.61**  
+- 🎓 **B.E. Artificial Intelligence & Data Science** – SNJB’s Late Sau KBJ College of Engineering, Chandwad, Nashik (2021–2025) | CGPA: **7.61**  
 - 🎓 **HSC (12th)** – LDP Junior College, Lasalgaon (2021) | **79.67%**  
 - 🎓 **SSC (10th)** – Savitribai Phule Madhyamik Vidyalay, Somthandesh (2019) | **71.60%**  
 
