@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💼 About Me  
-- 🏠 **Address:** At/Post Somthandesh, Tal- Yeola, Dist- Nashik, MH-423401, India.
+- 🏠 **Address:** At/Post Somthandesh, Tal-Yeola, Dist-Nashik, MH-423401, India.
 - 🎓 Graduate in **B.E. in Artificial Intelligence & Data Science** at SNJB’s Late Sau KBJ College of Engineering, Chandwad, Nashik (2021–2025).  
 - 💻 Skilled in **AI/ML, Data Science, Data Analytics, Python Development, NLP, and Full-Stack Development**.  
 - 🔭 Experienced with **projects in recommendation systems, sentiment analysis, and business intelligence dashboards**.  
