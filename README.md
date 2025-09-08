@@ -74,6 +74,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
 </p>
+
 ---
 
 ## 📂 Featured Projects  
